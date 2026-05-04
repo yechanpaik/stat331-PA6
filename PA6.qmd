@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Sean, Aarov, Marco
+author: Seans, Aarov, Marco
 format: html
 editor: visual
 embed-resources: true
